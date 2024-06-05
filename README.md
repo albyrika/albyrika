@@ -1,4 +1,8 @@
-## Hi there 👋
+## Computer Engineering in Artificial Intelligence and Data Analytics @ PoliTo
+
+- Bachelor degree in Ingegeneria Informatica @ PoliTo
+- Currently enrolled in Computer Engineering in Artificial Intelligence and Data Analytics @ PoliTo
+- I can speak Italian (native) and English (C1)
 
 <!--
 **albyrika/albyrika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
