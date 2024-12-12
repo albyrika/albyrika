@@ -1,8 +1,8 @@
 ## Computer Engineering in Artificial Intelligence and Data Analytics @ PoliTo
 
-- 🖥️ Bachelor degree in Ingegeneria Informatica @ PoliTo
-- 🌱 Enrolled in Computer Engineering in Artificial Intelligence and Data Analytics @ PoliTo (Master's degree)
-- 🔬 Currently working on my Master's Thesis
+- 🌱 Bachelor degree in Ingegeneria Informatica @ PoliTo
+- 🖥️ Master's degree in Computer Engineering in Artificial Intelligence and Data Analytics @ PoliTo
+- 🔬 Currently working for NanoTech Analysis S.r.l in Turin 
 - 🗣️ Languages: 🇮🇹 Italian (native) and 🇬🇧 English (C1), bonus 🍷 Piemontese (native) 
 - 📫 To contact me: alberto.ricatto@studenti.polito.it or [Linkedin](https://it.linkedin.com/in/alberto-ricatto-73b94a295?trk=people-guest_people_search-card)
 
