@@ -2,9 +2,9 @@
 
 - 🌱 Bachelor degree in Ingegeneria Informatica @ PoliTo
 - 🖥️ Master's degree in Computer Engineering in Artificial Intelligence and Data Analytics @ PoliTo
-- 🔬 Currently working for NanoTech Analysis S.r.l in Turin 
+- 🔬 Currently working for NanoTech Analysis S.r.l. in Turin 
 - 🗣️ Languages: 🇮🇹 Italian (native) and 🇬🇧 English (C1), bonus 🍷 Piemontese (native) 
-- 📫 To contact me: alberto.ricatto@studenti.polito.it or [Linkedin](https://it.linkedin.com/in/alberto-ricatto-73b94a295?trk=people-guest_people_search-card)
+- 📫 Contact me: alberto.ricatto@studenti.polito.it or [Linkedin](https://it.linkedin.com/in/alberto-ricatto-73b94a295?trk=people-guest_people_search-card)
 
 <!--
 **albyrika/albyrika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
