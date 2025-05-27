@@ -1,4 +1,4 @@
-## Computer Engineering in Artificial Intelligence and Data Analytics @ PoliTo
+## Computer Engineer in Artificial Intelligence and Data Analytics @ PoliTo
 
 - 🌱 Bachelor's degree in Ingegeneria Informatica @ PoliTo
 - 🖥️ Master's degree in Computer Engineering (Artificial Intelligence and Data Analytics) @ PoliTo
